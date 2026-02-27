@@ -12,7 +12,7 @@
 
 *A hands-on introduction to computer networking and TCP/IP addressing.*
 
-🇬🇧 English | [🇪🇸 Español](README.es.md)
+🇬🇧 English | [🇪🇸 Español](README_ES.md)
 
 </div>
 

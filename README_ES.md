@@ -12,7 +12,7 @@
 
 *Una introducción práctica a las redes informáticas y el direccionamiento TCP/IP.*
 
-[🇬🇧 English](README.md) | 🇪🇸 Español
+[🇬🇧 English](README_EN.md) | 🇪🇸 Español
 
 </div>
 
